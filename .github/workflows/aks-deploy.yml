@@ -4,7 +4,7 @@ on:
 
 env:
   RESOURCEGROUPNAME: "cna-devops-03-rg"
-  SUBSCRIPTIONID: "<subscription_id>"
+  SUBSCRIPTIONID: "93ddb225-14b5-474c-b674-dd6894d4802d"
   CLUSTERNAME: "cna-devops-03-aks"
   AGENTCOUNT: "3"
   AGENTVMSIZE: "Standard_DS2_v2"
